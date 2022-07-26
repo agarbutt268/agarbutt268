@@ -1,15 +1,22 @@
 # 👋 Hi, I’m Aden
-## 👤 Who I Am ...
-I am a Senior at Stuyvesant High School. I've been coding since I was ten years old. I love building things.
+
+## 👤 About Me ...
+I am currently a Senior at Stuyvesant High School in NY, New York. I was born in NYC and lived here my entire life. I've been coding since I was ten years old. I love building things. I love soccer.
+
 ## 👀 I’m interested in ...
-- 
+- AI
+- Robots
+- Soccer
+
 ## 🌱 I’m currently learning ...
 - Responsive Web Design
 - Algorithms and Data Structures
 - Front End Development
 - Back End Development and APIs
 - Machine Learning
-## 💞️ I’m looking to collaborate on ...
+
+<!---## 💞️ I’m looking to collaborate on ...--->
+
 ## 📫 How to reach me ...
 - LinkedIn: Aden Garbutt
 - Twitter: Neda268
